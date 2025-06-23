@@ -94,7 +94,7 @@ const About = () => {
                 }}
               >
                 <img
-                  src={hovered ? '/src/assets/images/profile5.jpeg' : '/src/assets/images/frontImg.jpeg'}
+                  src={hovered ? '/public/images/profile5.jpeg' : '/public/images/frontImg.jpeg'}
                   alt="Your Name"
                   style={{ width: '100%', height: '100%', objectFit: 'cover' }}
                 />
