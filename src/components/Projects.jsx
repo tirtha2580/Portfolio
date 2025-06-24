@@ -18,7 +18,7 @@ const projectData = {
   web: [
     {
       title: 'Login Authentication System',
-      image: '/public/projectImg/Login_.png',
+      image: '/projectImg/Login_.png',
       link: 'https://your-auth-system-link.com',
       description: 'MERN Stack | JWT Auth | OTP via Nodemailer | MUI UI',
       details: [
@@ -30,7 +30,7 @@ const projectData = {
     },
     {
       title: 'Food Recipe Finder',
-      image: '/public/projectImg/food.webp',
+      image: '/projectImg/food.webp',
       link: 'https://madefood.netlify.app/',
       description: 'React.js + MUI | Public API | Video Recipes | Netlify',
       details: [
@@ -43,7 +43,7 @@ const projectData = {
     },
     {
       title: 'TaskManager Web App',
-      image: '/public/projectImg/task1.png',
+      image: '/projectImg/task1.png',
       link: 'https://task-nest-smoky.vercel.app/',
       description: 'MERN Stack | Tailwind CSS + MUI | Vercel + Render',
       details: [
@@ -57,7 +57,7 @@ const projectData = {
   android: [
     {
       title: 'Global News App',
-      image: '/public/projectImg/News.png',
+      image: '/projectImg/News.png',
       link: '/',//add live link here
       description: 'React Native + TypeScript + Public API (NewsData.io)',
       details: [
@@ -71,7 +71,7 @@ const projectData = {
   ml: [
     {
       title: 'Smart Education System',
-      image: '/public/projectImg/education.png',
+      image: '/projectImg/education.png',
       link: '/',//add live link here
       description: 'Python + NLTK + Scikit-learn + Matplotlib',
       details: [
